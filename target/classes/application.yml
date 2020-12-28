@@ -1,0 +1,11 @@
+
+spring:
+  profiles:
+    active: local
+  #jdbc配置
+  main:
+    allow-bean-definition-overriding: true
+
+
+
+
